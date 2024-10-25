@@ -1,0 +1,1 @@
+print("script du premier script")
