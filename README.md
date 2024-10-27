@@ -1,4 +1,4 @@
-# TP-Git Version 0
+# TP-Git Version 0 😺
 C'est pour le plaisir de la science : n'exagérons quand-même pas. 
 
 Le Chêne un jour dit au roseau :
